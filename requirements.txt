@@ -1,1 +1,11 @@
-
+numpy
+torch
+torchaudio
+transformers
+einops
+librosa
+nnAudio
+soundfile
+tqdm
+easydict
+x_clip
